@@ -1,0 +1,35 @@
+## All blobs are from Google/RTD1325_AOSP_BOX/ross:14/UD2A.231203.054/260625134925
+## (RT-X2 stock, Android 14, vendor API 34, 32-bit only), unless pinned and noted otherwise.
+## Drafted with tools/gen-proprietary-files.py, then edited by hand.
+
+## Input
+# Remotes LineageOS ATV already covers (device/lineage/atv) are left out.
+vendor/usr/idc/Bee2_RCU.idc
+vendor/usr/idc/BTRCU2.idc
+vendor/usr/idc/ruwido_BLE.idc
+vendor/usr/idc/Vendor_005d_Product_0002.idc
+vendor/usr/idc/Vendor_005d_Product_0302.idc
+vendor/usr/idc/Vendor_005d_Product_f039.idc
+vendor/usr/idc/Vendor_0416_Product_0300.idc
+vendor/usr/idc/Vendor_057a_Product_0007.idc
+vendor/usr/idc/Vendor_057a_Product_003e.idc
+vendor/usr/idc/Vendor_057a_Product_0063.idc
+vendor/usr/idc/Vendor_0957_Product_0001.idc
+vendor/usr/idc/Vendor_0957_Product_000a.idc
+vendor/usr/idc/Xiaomi_RC.idc
+vendor/usr/keylayout/Bee2_RCU.kl
+vendor/usr/keylayout/BTRCU2.kl
+vendor/usr/keylayout/gpio_cmd.kl
+vendor/usr/keylayout/rtk-ir-hw.kl
+vendor/usr/keylayout/ruwido_BLE.kl
+vendor/usr/keylayout/Vendor_005d_Product_0302.kl
+vendor/usr/keylayout/Vendor_005d_Product_f039.kl
+vendor/usr/keylayout/Vendor_0416_Product_0300.kl
+vendor/usr/keylayout/Vendor_057a_Product_0007.kl
+vendor/usr/keylayout/Vendor_057a_Product_003e.kl
+vendor/usr/keylayout/Vendor_057a_Product_0063.kl
+vendor/usr/keylayout/Vendor_0957_Product_0001.kl
+vendor/usr/keylayout/Vendor_0957_Product_000a.kl
+vendor/usr/keylayout/Vendor_620a_Product_0407.kl
+vendor/usr/keylayout/venus_IR_input.kl
+vendor/usr/keylayout/Xiaomi_RC.kl

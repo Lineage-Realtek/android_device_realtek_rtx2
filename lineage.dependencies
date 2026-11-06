@@ -1,0 +1,10 @@
+[
+  {
+    "repository": "android_device_realtek_rtd1325-common",
+    "target_path": "device/realtek/rtd1325-common"
+  },
+  {
+    "repository": "android_device_realtek_rtx2-kernel",
+    "target_path": "device/realtek/rtx2-kernel"
+  }
+]

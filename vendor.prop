@@ -1,0 +1,10 @@
+#
+# SPDX-FileCopyrightText: The LineageOS Project
+# SPDX-License-Identifier: Apache-2.0
+#
+# The RT-X2 has an RTL8822CS: SDIO Wi-Fi, Bluetooth over UART (ttyS1).
+# wifi_auto_insmod finds the SDIO id and sets vendor.rtk.8822cs=1, which
+# loads 8822cs.ko and starts the Bluetooth HAL (init.rtd1325.rc).
+
+## HDMI CEC
+ro.hdmi.device_type=4
